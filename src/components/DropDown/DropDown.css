@@ -1,0 +1,32 @@
+#block{
+    font-size: 100px;
+    display:none;
+    border-radius: 20px;
+
+}
+#dropdowncontainer{
+    background-color: cyan;
+    height: 50px;
+    border-radius: 20px;
+
+}
+#dropdownwrapper{
+    background-color: rgb(5, 196, 249);
+    position: fixed;
+    width: 750px;
+    border-radius: 20px;
+
+}
+button{
+    width: 700px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+button:hover{
+    background-color: brown;
+}
+br{
+    height:0px;
+    margin: 0px;
+}
